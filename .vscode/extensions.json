@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "github.vscode-pull-request-github",
+    "ms-python.python"
+  ]
+}
